@@ -1,0 +1,121 @@
+header{
+    padding-bottom: 34px;
+    background-color: rgb(150, 0, 0);
+}
+header p{
+    text-align: center;
+    font-size: 250%;
+    font-family: Snell Roundhand, cursive;
+    color: rgb(235, 240, 235);
+}
+
+header img{
+    width: 5%;
+    height: 7%;
+    margin-top: 10px;
+}
+ 
+nav a{
+    border: 1px solid black;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgb(211, 198, 198);
+    color: black;
+}
+
+.m1{
+      border: 1px solid black;
+    margin: 4%;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgb(211, 198, 198);
+    color: black;
+}
+
+.m2 {
+    border: 1px solid rgb(211, 198, 198);
+    margin: 4%;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color: black;
+    color: rgb(211, 198, 198);
+}
+
+body{
+    background-color: rgb(4, 90, 4);
+}
+
+footer{
+    color:aliceblue;
+    background-color: rgb(1, 43, 1);
+}
+
+.b1 {
+    padding-left: 30%;
+    padding-top: 10px;
+    background-color: rgba(25, 66, 25, 0.801);
+}
+
+.r1 {
+    padding: 0% 0% 0% 35%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgba(18, 37, 18, 0.795);
+    font-size: 20px;
+}
+
+.n1 {
+    padding: 0% 0% 0% 50%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgb(12, 97, 12);
+    font-size: 20px;
+}
+
+.b2 {
+    padding-left: 30%;
+    padding-top: 10px;
+    background-color: rgba(11, 94, 11, 0.801);
+}
+
+.r2 {
+    padding: 0% 0% 0% 25%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgba(6, 43, 6, 0.795);
+    font-size: 20px;
+}
+
+.n2 {
+    padding: 0% 0% 0% 50%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgb(0, 29, 0);
+    font-size: 20px;
+}
+
+.b3 {
+     padding-left: 30%;
+    padding-top: 10px;
+    background-color: rgb(0, 75, 0);
+}
+
+.r3 {
+    padding: 0% 0% 0% 35%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgb(1, 41, 1);
+    font-size: 20px;
+}
+
+.n3 {
+    padding: 0% 0% 0% 50%;
+    color: blanchedalmond;
+    font-family: cursive;
+    background-color: rgba(0, 71, 0, 0.425);
+    font-size: 20px;
+}
